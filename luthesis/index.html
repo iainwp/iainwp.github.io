@@ -1,0 +1,34 @@
+---
+layout: default
+title: Iain Phillips
+---
+<h1 id="latex-for-your-thesis">LaTeX for your thesis</h1>
+<p><a href='luthesis.zip'>Download</a></p>
+
+
+<p>Read the docs - last updated September 2014. Note that to successfully format the luthesis-example.tex file (which is where the documentation is) you need to comment line 10 (\setcoofile....)</p>
+<p>Note this is not offcially supported within Loughborough. If you spot something out of data let me know and I'll fix, but errors caused by using this class will be considered your own.</p>
+<p>The luthesis@lists.lboro.ac.uk mailing list exists to discuss use of this class.</p>
+<p>To join the list send an email with <strong>an empty subject</strong> but containing the words below in the <em>body of the message</em>:</p>
+<pre><code>subscribe luthesis</code></pre>
+<p>to <a href="majordomo@lboro.ac.uk" class="uri">majordomo@lboro.ac.uk</a>. When you are subscribed send messages to <a href="luthesis@lists.lboro.ac.uk" class="uri">luthesis@lists.lboro.ac.uk</a></p>
+<h2 id="archiving-your-thesis-source-code">Archiving your thesis source code</h2>
+<p>As luthesis (and the Loughborough Regulations) are under constant change, it's very possible that the version you use in your thesis today will produce different results in subsequent years. Therefore, if you plan to archive the source of your thesis, archive the version of luthesis that you used at the same time.</p>
+<h2 id="useful-other-tools">Useful other tools</h2>
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/daum-equation-editor/dinfmiceliiomokeofbocegmacmagjhe">Daum Equation Editor</a></li>
+</ul>
+<h2 id="formatting-code-listings">Formatting code listings</h2>
+<p>A common question. Use the listings package and I suggest the following in the preamble:</p>
+<p>Code to define a language console output, such as collected by the <em>script</em> command</p>
+<pre><code>\lstdefinelanguage{console}{basicstyle=\ttfamily\footnotesize}</code></pre>
+<p>An environment to go with this</p>
+<pre><code>\lstnewenvironment{console}{\setstretch{0.9}\lstset{language=console}}{}}</code></pre>
+<p>A command to input code from a file.</p>
+<pre><code>\newcommand{\inputconsole}[1]{\begin{spacing}{0.9}\lstinputlisting{#1}\end{spacing}}</code></pre>
+<p>Which can be used like this:</p>
+<pre><code>\inputconsole{iain}</code></pre>
+<p>Code to create a python environment:</p>
+<pre><code>\lstnewenvironment{python}
+    {\setstretch{1.0}\lstset{language=Python,basicstyle=\footnotesize,stringstyle=\ttfamily,frame=single,numberstyle=\tiny,numbers=left}}
+    {}</code></pre>
