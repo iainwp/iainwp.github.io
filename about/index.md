@@ -1,4 +1,7 @@
---- title: Iain Phillips ---
+---
+title: Iain Phillips
+layout: default
+---
 
 Iain Phillips
 =============
@@ -29,7 +32,7 @@ And at Loughborough:
     Loughborough
 
 My [official web
-presence](http://www.lboro.ac.uk/departments/compsci/staff/dr-iain-phillips.html)
+presence](http://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/iain-phillips)
 is rather corporate, but lets you see some employment information and
 also useful things like a publication list.
 
