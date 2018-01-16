@@ -23,7 +23,7 @@ In Academic year 2017-18 I hold the following external positions:
 And at Loughborough:
 
 -   Director of Academic Staffing in the School of Science
--   Head of Computer SCience.
+-   Head of Computer Science.
 
 My [official web
 presence](http://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/iain-phillips)
