@@ -21,7 +21,7 @@ at Loughborough.
 
 I do not normally have funding for PhD places.  If a studentship
 exists this will be advertised via the School website and
-<jobs.ac.uk>.  If there is nothing there, then there is no point
+<http://jobs.ac.uk>.  If there is nothing there, then there is no point
 asking for funding.
 
 We will always take up references, so it is a good idea to mention to
