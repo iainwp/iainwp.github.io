@@ -11,7 +11,7 @@ where I've worked for over 20 years as Research Assistant, Research
 Fellow, Lecturer and Senior Lecturer. From Feb 2008 until July 2011 I
 served as Head of Computer Science and as a result joined the Council of
 Profs and Heads of Computing Committee. I was CPHC Chair from 2012-2014
-and now the Immediate Past Chair.
+then the Immediate Past Chair, then I left the committee.
 
 In Academic year 2017-18 I hold the following external positions:
 
