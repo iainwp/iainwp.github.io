@@ -18,6 +18,14 @@ reviewers, I'm holding them as spare, so as to avoid over reviewing.
 The BCS page for the competition is here:
 <https://www.bcs.org/content/conWebDoc/1511>
 
+If the area of the thesis is outside your expertise, please tell me as
+soon as you can.
+
+If you feel you have a conflict of interest, then please tell me as
+soon as you can.
+
+*[I.W.Phillips at lboro.ac.uk]*
+
 Email to nominated reviewers
 ----------------------------
 
