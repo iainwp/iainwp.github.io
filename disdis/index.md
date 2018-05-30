@@ -24,6 +24,19 @@ soon as you can.
 If you feel you have a conflict of interest, then please tell me as
 soon as you can.
 
+Questions
+---
+
+1. How long should the review be? 
+
+   The aim of the process is to pick the very best thesis from those
+   submitted; knowing that only the best have been submitted.  The
+   review needs to be thorough enough for the committee to make the
+   decision, concentrating on why this is excellent work within its
+   field.  If you had to put me on the spot I would say 1000-1500
+   words, but sometimes the message can be shorter.
+
+
 *[I.W.Phillips at lboro.ac.uk]*
 
 Email to nominated reviewers
