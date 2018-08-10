@@ -42,11 +42,11 @@ Questions
    Each reivewer is asked to make a quantitative judgement on the
    scale:
 
-       1. Although a nominated thesis, this does not meet the criteria
-       for the award
-       2. An excellent piece of work, but not at the top of
+    1. Although a nominated thesis, this does not meet the criteria
+        for the award
+    2. An excellent piece of work, but not at the top of
        the field
-       3. An excellent candidate, worthy of a highly commended; An
+    3. An excellent candidate, worthy of a highly commended; An
        outstanding candidate for the award
 
     together with a reviewer confidence.  This information will be
