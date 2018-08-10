@@ -34,7 +34,23 @@ Questions
    review needs to be thorough enough for the committee to make the
    decision, concentrating on why this is excellent work within its
    field.  If you had to put me on the spot I would say 1000-1500
-   words, but sometimes the message can be shorter.
+   words, but sometimes the message can be shorter, even down to 3-500
+   words.
+
+2. How is the decision made to select the best thesis?
+
+   Each reivewer is asked to make a quantitative judgement on the
+   scale:
+
+       1. Although a nominated thesis, this does not meet the criteria
+       for the award
+       2. An excellent piece of work, but not at the top of
+       the field
+       3. An excellent candidate, worthy of a highly commended; An
+       outstanding candidate for the award
+
+    together with a reviewer confidence.  This information will be
+    used by the committee to select the winning thesis.
 
 
 *[I.W.Phillips at lboro.ac.uk]*
