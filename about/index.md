@@ -13,7 +13,7 @@ served as Head of Computer Science and as a result joined the Council of
 Profs and Heads of Computing Committee. I was CPHC Chair from 2012-2014
 then the Immediate Past Chair, then I left the committee.
 
-In Academic year 2017-18 I hold the following external positions:
+In Academic year 2019-20 I hold the following external positions:
 
 -   Member of the Board of the [BCS Acacdemy](http://academy.bcs.org)
 -   Chair of the panel to decide the winner of the CPHC/BCS
@@ -23,7 +23,6 @@ In Academic year 2017-18 I hold the following external positions:
 And at Loughborough:
 
 -   Director of Academic Staffing in the School of Science
--   Head of Computer Science.
 
 My [official web
 presence](http://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/iain-phillips)
