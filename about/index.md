@@ -30,12 +30,8 @@ is rather corporate, but lets you see some employment information and
 also useful things like a publication list.
 
 My research is based around the areas of [computer
-networking](http://www.lboro.ac.uk/departments/compsci/research/groups/nccs/)
-and high performance computing. I've recently joined the [quantum
-systems group at
-Loughborough](http://www.lboro.ac.uk/research/quantum-systems) as we
-explore the face of computing and networking over the next 10-30
-years.
+networking](https://www.lboro.ac.uk/departments/compsci/research/research-themes/netsys)
+and high performance computing. 
 
 I maintain a LaTeX class for writing reports, dissertations and theses
 at Loughborough: [luthesis](luthesis).
