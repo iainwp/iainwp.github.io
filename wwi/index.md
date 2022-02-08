@@ -16,4 +16,4 @@ are a student working with me you would do well to adhere to them.
   and LaTeX source.
 - I've still not found anything as nice as xfig for pictures. Perhaps
   draw.io, perhaps TikZ in LaTeX, perhaps plantuml.
-- I'm a big fan of markdown and (pandoc)[http://pandoc.org]
+- I'm a big fan of markdown and <https://pandoc.org>
