@@ -34,8 +34,8 @@ exceptions and places where this is wrong.
   makes the space the same size, but prevents a line break occurring at
   that point, which is often useful.
 
-
+## Other things
 
 - [Source layout tips](tips)
-- [Reducing space](whitespace)
+- [Reducing space around headings and titles](whitespace)
 - [Where have my figures gone?](figures)
